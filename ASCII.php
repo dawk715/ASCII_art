@@ -1,6 +1,6 @@
 <?php
 // Number of rows and columns 
-$size = 9;  
+$size = 9; 
 
 //must be an odd number and >= 5
 if ($size < 5 || $size % 2 == 0) {
